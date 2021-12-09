@@ -31,7 +31,7 @@ General pitches: 2.54mm / 0.1"
 ### 1x BC337 NPN Transistor
 - [ ] **N**  
 ---
-### 3x 1A Diode
+### 3x 1A Schottky Diode
 - [ ] **M**
 - [ ] **B°**
 - [ ] **D°**
